@@ -2056,7 +2056,7 @@ button {
         transition: all .3s ease;
     }
 
-        .site-nav.is-open {
+        .site-nav.active {
             opacity: 1;
             visibility: visible;
             transform: translateY(0);
