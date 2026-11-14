@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://digitalintellia.onrender.com/sitemap.xml
